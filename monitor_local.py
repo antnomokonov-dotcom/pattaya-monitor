@@ -16,6 +16,7 @@ N8N_WEBHOOK_URL = os.getenv('N8N_WEBHOOK_URL', 'https://antnomokonov.app.n8n.clo
 
 # Чаты для мониторинга
 MONITORED_CHATS = [
+    'pattayaa_test_bot',
     'best_282',
     'PattayaNetworking',
     'pattaia_chatik',
