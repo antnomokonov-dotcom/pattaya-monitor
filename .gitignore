@@ -1,6 +1,6 @@
+.env
+*.session
+*.session-journal
 __pycache__/
 *.py[cod]
-.env
-*.bat
-test_webhook.py
-get_session_simple.py
+my_account.session

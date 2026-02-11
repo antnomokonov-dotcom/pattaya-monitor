@@ -1,1 +1,1 @@
-worker: python monitor_local.py
+worker: python monitor_v2.py
